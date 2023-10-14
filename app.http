@@ -1,0 +1,12 @@
+GET http://localhost:3000/books/
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InJhaHVsMTIzIiwiaWF0IjoxNjk3MzA2MjMzfQ.z0ulKNbMgdGRl-WfvHj6I1w3WJTCTJLBqLsdyz82R4U
+
+###
+
+GET http://localhost:3000/books/10/
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InJhaHVsMTIzIiwiaWF0IjoxNjk3MzA2MjMzfQ.z0ulKNbMgdGRl-WfvHj6I1w3WJTCTJLBqLsdyz82R4U 
+
+###
+
+GET http://localhost:3000/profile/
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InJhaHVsMTIzIiwiaWF0IjoxNjk3MzA2MjMzfQ.z0ulKNbMgdGRl-WfvHj6I1w3WJTCTJLBqLsdyz82R4U
